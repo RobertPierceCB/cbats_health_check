@@ -1,0 +1,3 @@
+[submodule "checkouts"]
+	path = checkouts
+	url = https://github.com/bipol-cb/bunraku
